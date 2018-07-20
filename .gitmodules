@@ -1,6 +1,0 @@
-[submodule "fpga/fpga"]
-	path = fpga/fpga
-	url = https://github.com/cbalakr/fpga.git
-[submodule "fpga/f1"]
-	path = fpga/f1
-	url = https://github.com/cbalakr/f1.git
